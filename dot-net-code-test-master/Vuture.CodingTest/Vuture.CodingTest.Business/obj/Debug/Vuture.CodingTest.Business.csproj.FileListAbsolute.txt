@@ -1,0 +1,5 @@
+C:\Users\Aaron W Bird\programming\c#\dot-net-code-test-master\dot-net-code-test-master\Vuture.CodingTest\Vuture.CodingTest.Business\bin\Debug\Vuture.CodingTest.Business.dll
+C:\Users\Aaron W Bird\programming\c#\dot-net-code-test-master\dot-net-code-test-master\Vuture.CodingTest\Vuture.CodingTest.Business\bin\Debug\Vuture.CodingTest.Business.pdb
+C:\Users\Aaron W Bird\programming\c#\dot-net-code-test-master\dot-net-code-test-master\Vuture.CodingTest\Vuture.CodingTest.Business\obj\Debug\Vuture.CodingTest.Business.csproj.CoreCompileInputs.cache
+C:\Users\Aaron W Bird\programming\c#\dot-net-code-test-master\dot-net-code-test-master\Vuture.CodingTest\Vuture.CodingTest.Business\obj\Debug\Vuture.CodingTest.Business.dll
+C:\Users\Aaron W Bird\programming\c#\dot-net-code-test-master\dot-net-code-test-master\Vuture.CodingTest\Vuture.CodingTest.Business\obj\Debug\Vuture.CodingTest.Business.pdb

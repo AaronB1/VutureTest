@@ -1,0 +1,17 @@
+C:\Users\Aaron W Bird\programming\c#\dot-net-code-test-master\dot-net-code-test-master\Vuture.CodingTest\Vuture.CodingTestTests\obj\Debug\Vuture.CodingTestTests.csprojAssemblyReference.cache
+C:\Users\Aaron W Bird\programming\c#\dot-net-code-test-master\dot-net-code-test-master\Vuture.CodingTest\Vuture.CodingTestTests\obj\Debug\Vuture.CodingTestTests.csproj.CoreCompileInputs.cache
+C:\Users\Aaron W Bird\programming\c#\dot-net-code-test-master\dot-net-code-test-master\Vuture.CodingTest\Vuture.CodingTestTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Aaron W Bird\programming\c#\dot-net-code-test-master\dot-net-code-test-master\Vuture.CodingTest\Vuture.CodingTestTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Aaron W Bird\programming\c#\dot-net-code-test-master\dot-net-code-test-master\Vuture.CodingTest\Vuture.CodingTestTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Aaron W Bird\programming\c#\dot-net-code-test-master\dot-net-code-test-master\Vuture.CodingTest\Vuture.CodingTestTests\bin\Debug\Vuture.CodingTestTests.dll
+C:\Users\Aaron W Bird\programming\c#\dot-net-code-test-master\dot-net-code-test-master\Vuture.CodingTest\Vuture.CodingTestTests\bin\Debug\Vuture.CodingTestTests.pdb
+C:\Users\Aaron W Bird\programming\c#\dot-net-code-test-master\dot-net-code-test-master\Vuture.CodingTest\Vuture.CodingTestTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Aaron W Bird\programming\c#\dot-net-code-test-master\dot-net-code-test-master\Vuture.CodingTest\Vuture.CodingTestTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Aaron W Bird\programming\c#\dot-net-code-test-master\dot-net-code-test-master\Vuture.CodingTest\Vuture.CodingTestTests\bin\Debug\Vuture.CodingTest.exe
+C:\Users\Aaron W Bird\programming\c#\dot-net-code-test-master\dot-net-code-test-master\Vuture.CodingTest\Vuture.CodingTestTests\bin\Debug\Vuture.CodingTest.pdb
+C:\Users\Aaron W Bird\programming\c#\dot-net-code-test-master\dot-net-code-test-master\Vuture.CodingTest\Vuture.CodingTestTests\bin\Debug\Vuture.CodingTest.exe.config
+C:\Users\Aaron W Bird\programming\c#\dot-net-code-test-master\dot-net-code-test-master\Vuture.CodingTest\Vuture.CodingTestTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Aaron W Bird\programming\c#\dot-net-code-test-master\dot-net-code-test-master\Vuture.CodingTest\Vuture.CodingTestTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Aaron W Bird\programming\c#\dot-net-code-test-master\dot-net-code-test-master\Vuture.CodingTest\Vuture.CodingTestTests\obj\Debug\Vuture.CodingTestTests.csproj.CopyComplete
+C:\Users\Aaron W Bird\programming\c#\dot-net-code-test-master\dot-net-code-test-master\Vuture.CodingTest\Vuture.CodingTestTests\obj\Debug\Vuture.CodingTestTests.dll
+C:\Users\Aaron W Bird\programming\c#\dot-net-code-test-master\dot-net-code-test-master\Vuture.CodingTest\Vuture.CodingTestTests\obj\Debug\Vuture.CodingTestTests.pdb

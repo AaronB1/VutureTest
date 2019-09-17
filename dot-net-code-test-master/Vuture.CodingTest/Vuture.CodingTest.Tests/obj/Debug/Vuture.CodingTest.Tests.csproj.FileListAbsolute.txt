@@ -1,0 +1,10 @@
+C:\Users\Aaron W Bird\programming\c#\dot-net-code-test-master\dot-net-code-test-master\Vuture.CodingTest\Vuture.CodingTest.Tests\bin\Debug\Vuture.CodingTest.Tests.dll
+C:\Users\Aaron W Bird\programming\c#\dot-net-code-test-master\dot-net-code-test-master\Vuture.CodingTest\Vuture.CodingTest.Tests\bin\Debug\Vuture.CodingTest.Tests.pdb
+C:\Users\Aaron W Bird\programming\c#\dot-net-code-test-master\dot-net-code-test-master\Vuture.CodingTest\Vuture.CodingTest.Tests\bin\Debug\Moq.dll
+C:\Users\Aaron W Bird\programming\c#\dot-net-code-test-master\dot-net-code-test-master\Vuture.CodingTest\Vuture.CodingTest.Tests\bin\Debug\nunit.framework.dll
+C:\Users\Aaron W Bird\programming\c#\dot-net-code-test-master\dot-net-code-test-master\Vuture.CodingTest\Vuture.CodingTest.Tests\bin\Debug\Moq.xml
+C:\Users\Aaron W Bird\programming\c#\dot-net-code-test-master\dot-net-code-test-master\Vuture.CodingTest\Vuture.CodingTest.Tests\bin\Debug\nunit.framework.xml
+C:\Users\Aaron W Bird\programming\c#\dot-net-code-test-master\dot-net-code-test-master\Vuture.CodingTest\Vuture.CodingTest.Tests\obj\Debug\Vuture.CodingTest.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Aaron W Bird\programming\c#\dot-net-code-test-master\dot-net-code-test-master\Vuture.CodingTest\Vuture.CodingTest.Tests\obj\Debug\Vuture.CodingTest.Tests.csproj.CopyComplete
+C:\Users\Aaron W Bird\programming\c#\dot-net-code-test-master\dot-net-code-test-master\Vuture.CodingTest\Vuture.CodingTest.Tests\obj\Debug\Vuture.CodingTest.Tests.dll
+C:\Users\Aaron W Bird\programming\c#\dot-net-code-test-master\dot-net-code-test-master\Vuture.CodingTest\Vuture.CodingTest.Tests\obj\Debug\Vuture.CodingTest.Tests.pdb
